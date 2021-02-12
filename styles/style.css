@@ -7,6 +7,10 @@ p {
     align-items: center;
     flex-direction: column;
 }; 
+body {
+    background-image: url("https://www.pinclipart.com/picdir/middle/29-297022_vector-clipart-burger-bobs-burgers-clip-art-png.png
+    ");
+}
 
 
 
