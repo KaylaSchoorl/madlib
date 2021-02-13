@@ -1,5 +1,10 @@
 
-
+header {
+    color:blue;
+    font-size:xx-large;
+    justify-content: center;
+    display: flex;
+}
 p {
     color: rgb(130, 243, 96);
     display: flex;
